@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nevigation{
+display: flex;
+position: relative;
+width: auto;
+height: 50px;
+background-color: #212121;
+justify-content:flex-start;
+align-items: center;
+padding: 0%;
+margin: 0%;
+
+}
+.nev{
+    display: flex;
+    justify-content: space-around;
+}
+.first_page{
+    display: inline-block;
+            width: 100%;
+            height: 93vh;
+            background-image: url("IMG/photo6.jpg");
+        background-size: cover;
+        color: white;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+}
+.second_page{
+    display: inline-block;
+            width: 100%;
+            height: 100vh;
+            background-image: url("IMG/7.jpg");
+        background-size: cover;
+        color: white;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+}
+.third_page{
+    display: inline-block;
+            width: 100%;
+            height: 100vh;
+            background-image: url("IMG/php4.jpg");
+            background-position: center;
+           background-size: cover;
+           display: flex;
+           justify-content:center;
+           flex-direction: column;
+        
+}
+
+.foot{
+    display: inline-block;
+            width: 100%;
+            height: 40vh; 
+            background-color: #2E2E2E;
+            display: flex;
+            justify-content:space-between;
+            align-items: center;
+            flex-direction: column;
+            
+}
+.kalo{
+    height:30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third_page h3{
+    font-size:100px; 
+    color: white;
+    font-family:'Electrolize';
+}
+.third_page h1 pre{
+    font-size:100px; 
+    color: white;
+    font-family:'Electrolize';
+}
+
+

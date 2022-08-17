@@ -1,0 +1,104 @@
+.icon{
+   
+width: 34px;
+height: 29px;
+
+}
+img{
+    padding: 10px;
+    width: 34px;
+height: 29px;
+}
+
+.logo{
+    width:45px;
+    height: 45px;
+    padding-right: 31px;
+    background-color: #212121;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+.nev ul li{
+    display: inline;
+    font-style: none;
+    width: 77px;
+height: 22px;
+font-size: 18px;
+color: #FFFFFF;
+padding-left: 32px;
+}
+li{display: inline;
+    font-style: none;
+    width: 77px;
+height: 22px;
+font-size: 18px;
+padding-left:15px ;
+    cursor: pointer;
+}
+.right{
+    padding-left: 299px;
+}
+p{
+
+    font-family: 'Electrolize';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+margin-bottom: 9px;
+}
+b{
+    font-family: 'Gotham Black';
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+line-height: 94px;
+}
+.text{
+    padding-left: 130px;
+    margin-bottom: 85px;
+}
+span{
+    font-size:40px ;
+}
+
+
+
+li:hover{
+    color: rgb(90, 82, 82); 
+}
+
+.add{
+    display: flex;
+    align-items: center;
+    font-family: 'Carme';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 36px;
+
+}
+span p{
+    margin-left: 9px;
+    font-size: 18px;
+    margin-top: 8px;
+}
+.third_content{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.third_page h3,h1{
+    margin-left:105px;
+}
+.infor{
+    display:flex;
+}
+.left ul li:hover{
+    color: #524e4e;
+}
+.right ul li:hover{
+    color: #524e4e;
+}
